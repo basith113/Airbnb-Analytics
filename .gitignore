@@ -1,0 +1,15 @@
+# dbt generated
+target/
+dbt_packages/
+dbt_internal_packages/
+logs/
+
+# secrets
+profiles.yml
+
+# editor
+.vscode/
+
+# python
+.venv/
+__pycache__/
